@@ -1,0 +1,515 @@
+[{
+    "id": 14,
+    "city_name": "Madrid",
+    "img": "https://q-ak.bstatic.com/xdata/images/xphoto/1680x560/49345503.webp?k=a9c9ce07f7c7ad673a9b862407cbda408c402441d0f048cc9921e308868832e5&amp;o=",
+    "description": "Madrid is all bustling plazas, lively tapa bars, and a rich variety of museums showcasing Spain’s most celebrated artists. The world-famous Prado Museum features the work of Goya and Velázquez. The Prado forms the 'golden triangle' with the Reina Sofía Museum—home to Picasso’s 'Guernica'—and the Thyssen-Bornemisza Museum, an enormous private collection highlighting a wide array of artistic styles. Madrid’s medieval architecture holds centuries of history, like the intricate portico arches of Plaza Mayor, as well as the baroque Royal Palace, where state ceremonies are held to this day. And visiting top attractions like these is easy thanks to the city’s efficient and high-speed Metro system. Spain's sprawling capital is a city that lives and breathes soccer. If you’re a fan, catch a game at the Santiago Bernabéu Stadium—home to Real Madrid—and roar with the rest of the crowd as the 'Galácticos' take the field. Madrid’s weather is pleasant year-round, with perfectly comfortable temperatures on either side of summer. Even a winter vacation practically guarantees clear blue skies – making for a beautiful sight when flying into the airport during the day.",
+    "lat": 40.416800,
+    "lng": 3.703800,
+    "things_to_do": [{
+        "name": "The Lázaro Galdiano Museum",
+        "description": "Set within an early 20th-century Italianate stone mansion, this extensive art collection includes an array of masterpieces. Aside from paintings, there's also a variety of bronze figures, ceramics, glassware and even antique weapons. Highlights include works by Goya, El Greco, Zurbarán, Murillo, Bosch, Cranach and Constable. Visitors will have access to permanent and temporary exhibitions during their visit.",
+        "img": "https://q-ak.bstatic.com/xdata/images/xphoto/max320/50134123.webp?k=3c8ddab20c21a659ce369b7c0d66791423f141abc7e1f6b07ce276477896c9bf&amp;o=",
+        "lat": 40.457490,
+        "lng": -3.686890
+      },
+      {
+        "name": "Madrid Wax Museum",
+        "description": "This museum features realistic wax sculptures of celebrities and historical figures like Leonardo DiCaprio, Angelina Jolie, Cristiano Ronaldo and more. The Gallery of Kings and other exhibits provide an overview of Spanish history, and the fun continues with a space ride and a ghost train.",
+        "img": "https://q-ak.bstatic.com/xdata/images/xphoto/max320/52833138.webp?k=2aa9bc6f61a37cf47a88452fcec7b5962da1bdb51273aa07f05e68b2b19ece43&o=",
+        "lat": 40.425132,
+        "lng": -3.694094
+      },
+      {
+        "name": "Santiago Bernabeu Stadium Tour",
+        "description": "The Santiago Bernabeu tour takes you inside the home stadium of the Real Madrid football club. Led by an expert guide, you'll gain access to exclusive areas like the Presidential Box, trophy room and dressing rooms. You'll even get to step out on the pitch and admire panoramic views of the stadium from one of its four towers. Plenty of stories about famous players and epic matches will be shared along the way.",
+        "img": "https://r-ak.bstatic.com/xdata/images/xphoto/max320/64616196.webp?k=ccb95f9cfaee8699a463f6225af8e80ca6d9e4419cd26e175386c19d0b780a7e&o=",
+        "lat": 40.453106,
+        "lng": -3.69095
+      },
+      {
+        "name": "Rent & Roll – 24-hour bike rental",
+        "description": "This bike hire service lets you explore the marvels of Madrid on your own custom-made route. Choose your lightweight city bike and set off down paved roads and into green parks. Staff at the hire site will provide you with maps and plenty of tips on places to visit during your time in the Spanish capital.",
+        "img": "https://r-ak.bstatic.com/xdata/images/xphoto/max320/46429782.webp?k=2ab010eb755d77ffdc0b45ec1609f5c5ed325e307aefb71b4ccb1eb4bec47f29&o=",
+        "lat": 40.453556,
+        "lng": -3.692882
+      },
+      {
+        "name": "Toledo Half-day Tour",
+        "description": "Located 43 mi south of Madrid, Toledo is an historical city listed among UNESCO’s World Heritage Sites. It’s one of the oldest towns in Europe, with architectural styles encompassing many eras from Arabian and Gothic to Mudéjar, Renaissance and Baroque.Christians, Muslims and Jews have lived together in Toldeo for centuries, earning it the nickname ‘The City of the Three Cultures’. It was also home to the great This tour lets you see El Greco’s works up close in St Tomé Church, as well as buildings like Toledo Cathedral, Santa María la Blanca Synagogue and Monastery of San Juan de los Reyes. You’ll also get to see a demonstration of the famous ‘Damascene’ technique of metalwork, which involves the incrustation of precious metals like gold and silver onto steel.",
+        "img": "https://q-ak.bstatic.com/xdata/images/xphoto/max320/17720099.webp?k=348bb98552cf642e535cc55f053577d51307c51529751816663fc09e05f66c8c&o=",
+        "lat": 40.415951,
+        "lng": -3.698163
+      },
+      {
+        "name": "Retiro",
+        "description": "This historic district can’t be missed. Loop around Retiro Park – once the royal family’s private garden, it’s full of lavish monuments and tree-lined avenues. People-watch on Paseo del Prado boulevard, filled with joggers, street vendors and locals, then spend a few hours exploring El Prado Museum’s important collection of paintings.",
+        "img": "https://q-ak.bstatic.com/xdata/images/district/max550/52827.webp?k=50825d772a0c23978cb7325f54a3f501acca6214ea50e8ef967652909eeabbe4&o=",
+        "lat": 40.408065,
+        "lng": -3.693607
+      }
+    ]
+  },
+
+  {
+    "id": 15,
+    "city_name": "Rome",
+    "img": "https://q-ak.bstatic.com/xdata/images/xphoto/1680x560/49345771.webp?k=eef1ebc043e9c90e1338efe31127f3a0a75ce7399e29a372f648bd53311fd240&amp;o=",
+    "description": "Ancient history comes alive down every street of Italy's capital. Many of the ruins depict stories of the powerful empire that once spanned three continents, making Rome an open-air museum thanks to iconic monuments like the Roman Forum, Palatine Hill, and the Colosseum. The former gladiator arena is the city's centerpiece, and brings to mind all the brutal games once held on its stage for thousands of roaring spectators. Visit the impressively preserved Pantheon to experience even more of the Eternal City's golden age. With over 900 churches and many beautiful basilicas among them, Rome is also home to the city-state of the Vatican, the seat of the Catholic Church. St. Peter's Basilica is a tourist hotspot, but treasures like Michelangelo's Sistine Chapel and countless other masterpieces are held inside the Vatican's great museums. Like any other Italian city, the local food varies from region to region. In Rome, the trademark dishes are 'cacio e pepe'—a deliciously simple pecorino cheese and pepper pasta—and 'spaghetti carbonara'. Don't miss other landmarks like the iconic Trevi Fountain, the Borghese Gallery, or Piazza Navona and Piazza di Spagna. The weather is best between April and June, perfect for a walk or bike ride through Villa Borghese park.",
+    "lat": 41.902782,
+    "lng": 12.496366,
+    "things_to_do": [{
+        "name": "Rome Wax Museum",
+        "description": "Inspired by the wax museums in London and Paris, this collection is the first in Italy and the third largest in Europe. The museum holds more than 250 figures, including world-famous actors, painters, poets and popes, some of them wearing their original clothes. As you wander through this multi-themed gallery, you can come face-to-face with Barack Obama, Leonardo Da Vinci, Columbus, Napoleon, Oscar Wilde or Snow White.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/15097677.jpg?k=c55a1277b9a237fa27c92cb8987ed82639babb5f0b030b4ee42d1b19df18bc89&o=",
+        "lat": 41.897064,
+        "lng": 12.481414
+      },
+      {
+        "name": "Museo Leonardo da Vinci",
+        "description": "Dedicated to Italy's great engineer and artist, Leonardo da Vinci Museum offers a comprehensive look at the Renaissance works of the master craftsman through a collection of more than 60 inventions modeled on his machines. You'll have the chance to explore the artist's unique creations via interactive exhibitions.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/32811932.jpg?k=a63b4d27b1828eda24fb5602750c076607c3786a88d8b4e29dc7bddae5fd3bb5&o=",
+        "lat": 41.897099,
+        "lng": 12.466093
+      },
+      {
+        "name": "Roman Houses of Caelian Hill",
+        "description": "Located below the Basilica of Saints John and Paul, the Roman Houses of Caelian Hill are thought to be the home and burial place of those martyrs. The houses are also a spectacular example of the subterranean spaces that typified that era, giving an insight into the lives of the different social classes who once lived there. Visitors can take in 20 rooms full of well-preserved frescoes, then check out the collection of everyday artifacts in the museum.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/19494685.jpg?k=29310459b07fa6fd9f08a7bbeb778ecb6d43a4f077ddda2d5ce5162af9bee47f&o=",
+        "lat": 41.883348,
+        "lng": 12.491245
+      },
+      {
+        "name": "Big Bus Hop-On Hop-Off Tour",
+        "description": "This tour gives you the opportunity to visit key Roman landmarks and hop on and off a double-decker bus as often as you'd like. You can stay on board the bus for the full ride or get off at any stop along the way. Educational prerecorded audio commentary is available on board all busses, and you'll also have access to four free walking tours: 'Vatican and St. Peter's Square' (starting at 12:00), 'Roman Forum and Colosseum' (starting at 15:30), 'Pantheon and Piazza Navona' (starting at 14:00) and 'Piazza Barberini and Spanish Steps' (starting at 17:00).",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/9842096.jpg?k=7606458895c1d5c53925be1feca7714ff9d644b0298fbac6ff1a3354d6e96f62&o=",
+        "lat": 41.900696,
+        "lng": 12.462941
+      },
+      {
+        "name": "Ancient Rome Segway Tour",
+        "description": "Sightsee across Ancient Rome on an eco-friendly Segway. The tour provides the opportunity for you to experience highlights such as the Colosseum, Circus Maximus and Roman Forum. Uniquely created for this tour, the stop at each landmark is supported by audio-visual presentations on a personal iPod provided. The landmark visits offer an exterior experience and you can access those offering free entry. Each tour departs from and returns to the Rome by Segway office, located near the Colosseum where you will have access to water, WiFi and bathroom facilities.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/48761260.jpg?k=9883344da66ef6b3467aa8f8ea9b731f94fb0255a429e4c6c7c2028e96f69e4e&o=",
+        "lat": 41.900715,
+        "lng": 12.456375
+      },
+      {
+        "name": "Aventino",
+        "description": "Aventino is known for its medieval churches. The Bocca della Verità (the 'mouth of truth') is right at the entrance to Santa Maria in Cosmedin church. The Rose Garden contains 1100 varieties of roses, and nearby you’ll find Circus Maximus, an ancient Roman chariot-racing stadium.",
+        "img": "https://r-ak.bstatic.com/xdata/images/district/max550/48322.webp?k=5bb9a09026f8ab3d3f7386b54483bd38ff8f2b426688599863c6687b3cb7423d&o=",
+        "lat": 41.882497,
+        "lng": 12.468885
+      },
+      {
+        "name": "Trastevere",
+        "description": "Trastevere is filled with narrow, winding streets. Piazza di Santa Maria in Trastevere has plenty of lively pubs, restaurants and clubs. Head to the lookout at Piazzale Garibaldi on Janiculum Hill for a city vista, or shop for clothes and accessories on Viale Trastevere. On Sundays, visit Porta Portese flea market.",
+        "img": "https://q-ak.bstatic.com/xdata/images/district/max550/38908.webp?k=605e24238436186e0891217524e3b896cdd8f232c05245d72ebc8ac6f5953043&o=",
+        "lat": 41.891179,
+        "lng": 12.459316
+      }
+    ]
+  },
+
+  {
+    "id": 16,
+    "city_name": "Amsterdam",
+    "img": "https://r-ak.bstatic.com/xdata/images/xphoto/1680x560/49345566.webp?k=a3bfe768d307618e99f9bd81bee62d09afb9f5499197e060ef315ed0ea024480&amp;o=",
+    "description": "Amsterdam, the capital of the Netherlands, has been a rich cultural hub for centuries thanks to travelers and traders. Located in North Holland, the city is famous for its iconic canal system, distinctive row houses, and eclectic range of museums, including the Anne Frank House, the Van Gogh Museum, and the Rijksmuseum. Great public transit options include buses and streetcars, but bicycles are the quintessential mode of transportation in Amsterdam. The 250 miles of bike paths and 8,000 bike parking spaces make exploring the city on two wheels easy and fun. The city's medieval center, or 'Centrum', showcases many points of interest synonymous with Amsterdam tourism, including canals, traditional architecture, and the famous nightlife of the Red Light District. If you're visiting during tulip season, stop by Keukenhof's botanical garden in mid-April for its vibrant collection of blooming flowers. A variety of accommodations can be found across the city, from high-end hotels to cozy homestays and hostels. Schiphol—Amsterdam’s main airport—is just 9 miles southwest of the city and is connected by regular train services from the city center to the main terminal.",
+    "lat": 52.379189,
+    "lng": 4.899431,
+    "things_to_do": [{
+        "name": "Rijksmuseum",
+        "description": "The Rijksmuseum is the most-visited museum in the Netherlands, and houses a collection featuring art from the Middle Ages to the present day. You’ll see more than 8,000 masterpieces in this breathtaking building, including Rembrandt’s 'The Night Watch' and Vermeer’s 'The Milkmaid.' If you have time, you can also walk through the Gallery of Honor.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/49774016.jpg?k=92657ad052b9a09c54a7d0e13e1c5b77087ddaabd5f65c00a54cc54c8b4d2067&o=",
+        "lat": 52.359663,
+        "lng": 4.882916
+      },
+      {
+        "name": "The Oude Kerk (Old Church)",
+        "description": "Surrounded by stained-glass windows and period decor, this 800-year-old church is Amsterdam's oldest building and hosts contemporary art exhibitions and a pretty garden cafe.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/11511602.jpg?k=bad6882d33e69df22b71059a0b28460ac5a9390827e32896839ce39063920e91&o=",
+        "lat": 52.374370,
+        "lng": 4.896018
+      },
+      {
+        "name": "Cheese Tasting Experience",
+        "description": "A cheese tasting lesson at Henri Willig's Cheese & More store, with traditional Dutch cheeses including Baby Gouda. On the tour, your guide will explain how cheeses are made and you'll watch a short film about this artisanal craft. Cheese is accompanied by mustard and dips, and either a glass of wine, beer, or soft drink.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/38899317.jpg?k=0757e1c89fec861e571262f277d2b7fe79c211b7d7c71e14aab4e7f63684f4b8&o=",
+        "lat": 52.366539,
+        "lng": 4.892331
+      },
+      {
+        "name": "Hop-On, Hop-Off Canal Boat",
+        "description": "This hop-on/hop-off boat tour of Amsterdam allows visitors to explore this historic city at their own pace. The tour provides 24-hour access to a canal boat, giving guests time to see landmarks across the city.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/21715115.jpg?k=a757cfeb2be7fdd3b88ee00464e08801fbdf4d00ac9f48d05ff2a9448ca69be7&o=",
+        "lat": 52.366567,
+        "lng": 4.877010
+      },
+      {
+        "name": "Oud Zuid",
+        "description": "The 'Old South' is Amsterdam’s most elegant neighborhood, with a mix of commercial and residential areas. The luxurious PC Hooftstraat features designer-label clothing and accessories, and a stroll along the Northern Amstel Canal will take you to one of the many parks in the area.",
+        "img": "https://q-ak.bstatic.com/xdata/images/district/max550/44390.webp?k=fbd6d7855ae6973b8236dd3ebcb36e9d1d2739563c114ddde644672fbb8f9114&o=",
+        "lat": 52.350295,
+        "lng": 4.858702
+      }
+    ]
+  },
+
+  {
+    "id": 17,
+    "city_name": "Barcelona",
+    "img": "https://q-ak.bstatic.com/xdata/images/xphoto/1680x560/49345466.webp?k=6ae21c5b2bdf1f7707e22228c7615f34c8ab07596a458883e58d79245355b05c&amp;o=",
+    "description": "Located on the coast of Catalonia, Barcelona is a melting pot of cultures, filled with unforgettable architecture, medieval streets, and impressive museums. Its most famous figure, Antoni Gaudí, is the genius behind some of the city’s most incredible monuments. From the twisting, stone façade of Casa Milà to the world-famous Sagrada Familia, the works of this legendary architect can be found all over the city. In the Gothic Quarter, you’ll find all sorts of historic cafes and tapas bars leading the way to a cathedral protected by gargoyles. Be sure to try Catalonian classics like beef croquettes and salt-cod fritters under this dramatic backdrop, then wash it all down with a refreshing glass of Rioja. The perfect way to end the day is with a walk all the way down the lively, tree-lined boardwalk of La Rambla until you get to the calm port at dusk. If you’re looking to soak up the year-round sunshine, find a spot on the sand in Barceloneta or a comfy patch of grass in Parc de la Ciutadella. If you have time, take a stadium tour of Camp Nou, climb Carmel Hill for amazing panoramic views, or explore the iconic mosaics of Park Güell – yet another of Gaudí’s amazing creations.",
+    "lat": 41.390205,
+    "lng": 2.154007,
+    "things_to_do": [{
+        "name": "Museum of Modernism",
+        "description": "At this institution of art and culture, you can observe and admire the Museum of Modernism’s unique collection of paintings and sculptures. The museum displays original pieces from Gaudí and Rusiñol among others.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/39148834.jpg?k=d7ce534c0ae77fe6bcb38bb6cf3560f7e06202d32634a5b28164d6de65a93186&o=",
+        "lat": 41.388831,
+        "lng": 2.161290
+      },
+      {
+        "name": "Gaudí Exhibition Center",
+        "description": "The Gaudí Exhibition Center will take you on a journey through the famous architect's life, introducing you to his major works that include not less than seven UNESCO World Heritage Sites such as the Sagrada Familia, Casa Batlló and Park Güell. A 4D cinema with moving seats, a stereo screen and surround sound will bring you close to Gaudí and his creations. Virtual and augmented reality technology, touchscreens and exhibitions of his artwork complete the interactive experience.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/64967791.jpg?k=0ddb109f235449b685326d8c1b21d76896080ed544ac90d88ab9bd6a17859c7e&o=",
+        "lat": 41.384537,
+        "lng": 2.173944
+      },
+      {
+        "name": "Chocolate Museum",
+        "description": "Whether you’ve got a sweet tooth or not, this chocolaty experience has something for everyone. You’ll also learn all about the origins of this scrumptious confection and its medicinal properties. Chocolate has played a key role in the social and economic fabric of Barcelona, as the Catalan capital was once a major distribution port. There are lots of tastings on offer at the museum, housed in former Saint Agustí monastery, and you can finish your trip with a cup of hot chocolate at the on-site cafe.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/19463763.jpg?k=9d21fe59e8f5376787b8efabb80b58865cd5a7d9200ab3bd6ae35e1d95ef6b20&o=",
+        "lat": 41.387057,
+        "lng": 2.179571
+      },
+      {
+        "name": "Barcelona Highlights tour",
+        "description": "Pass Gaudí masterpieces on Passeig de Gràcia before catching a cable car up to Montjuïc’s seafront panoramas. The tour winds downhill to Poble Espanyol’s model village, before wrapping up at Las Ramblas in the Gothic Quarter. Tickets to Poble Espanyol and the cable car are included.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/64983153.jpg?k=8a43c3920af1b533a37d4530fd3ece7bed9adf4113ebb65278626f5e1d01a8ce&o=",
+        "lat": 41.387077,
+        "lng": 2.173005
+      },
+      {
+        "name": "GoCar Experience",
+        "description": "Cruising through the Catalan capital, your onboard GPS system will guide you and provide facts and stories about the surrounding sights, which include the Arc de Triomf and Las Ramblas. You’ll also explore the Montjuic Olympic park and marvel at the iconic Sagrada Familia and Parc Guell. A pit stop will be taken at the medieval-style Torre Bellesguard and the Guell Pavilions. You can choose between four different routes that will take you through the city's main attractions.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/39153144.jpg?k=690a0689a37d0a773bc29dab2d61c44f1a1f6332e2dca0c7d7edf8ae924d8f36&o=",
+        "lat": 41.389650,
+        "lng": 2.181839
+      },
+      {
+        "name": "Ciutat Vella",
+        "description": "Ciutat Vella ('Old City') is comprised of several neighborhoods: Barri Gòtic, Raval, El Born and Barceloneta (all in more detail in separate descriptions). As a whole, the district’s characteristic features include narrow, winding streets that reach from Las Ramblas to the coast.",
+        "img": "https://r-ak.bstatic.com/xdata/images/district/max550/54819.webp?k=80d0f712430fd3125a34e5835e55befd19c05338b751f8b396b1c9997d10b581&o=",
+        "lat": 41.376873,
+        "lng": 2.163100
+      },
+      {
+        "name": "Eixample",
+        "description": "L’Eixample’s large, grid-like avenues (modeled after New York) are easy to navigate. Passeig de Gràcia (in the center) is a tourist hot-spot, with Gaudí's Casa Batlló and La Pedrera, as well as Puig i Cadafalch's Casa Amatller within easy reach. Carrer Balmes is a safe and tolerant area for all kinds of travelers.",
+        "img": "https://q-ak.bstatic.com/xdata/images/district/max550/37908.webp?k=52ec38815dc1e3a1a3bd716bcd21161e635ad6322f63b46421ab87c19449ba74&o=",
+        "lat": 41.393511,
+        "lng": 2.147176
+      }
+    ]
+  },
+
+  {
+    "id": 18,
+    "city_name": "Vienna",
+    "img": "https://q-ak.bstatic.com/xdata/images/xphoto/1680x560/49345467.webp?k=79b6fd6d6654e418f5fac99284af972cdb39cc1cbd2b1300e66f6d028d064a6c&amp;o=",
+    "description": "With all of Vienna's imperial palaces, countless architectural achievements, and a world-renowned cafe culture, there's almost too much to do in Austria's amazing capital. The historic city center is like an open-air museum, so it's no surprise it was designated as a UNESCO World Heritage Site. Ringstrasse Boulevard is lined with beautiful buildings like the Rathaus (town halll), the Spanish Riding School, and the Hofburg Palace. However, the best place to check out the city's main sights is in the MuseumsQuartier – a collection of great museums, as well as cozy cafes and bars all housed in former stables. Highlights include the MUMOK, Leopold Museum, Kunsthalle, Architekturzentrum, and the interactive children's museum Zoom. Enjoy the unique atmosphere of Vienna's coffee shops at Café Schwarzenberg—the oldest café on the Ringstrasse—which serves traditional liver dumpling soup and apple strudel. There's also Café Central, where icons like Leo Trotsky and Sigmund Freud used to gather. Then head over to the Riesenrad for some beautiful views over the city. This classic Ferris wheel is 215 feet tall and takes about 20 minutes to make a full rotation. Vienna International Airport is right outside the city limits and can be reached easily by train, bus or taxi.",
+    "lat": 48.210033,
+    "lng": 16.363449,
+    "things_to_do": [{
+        "name": "KUNST HAUS WIEN Museum Hundertwasser",
+        "description": "This museum houses a wealth of contemporary art, with a strong focus on photography. Visitors will also find a permanent exhibition of works by the Austrian artist Friedensreich Hundertwasser, who designed the museum.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/57841936.jpg?k=cf804940ec0112c5097694cbf2b4e194f71edda0f561bad8313a47c990857bdf&o=",
+        "lat": 48.211077,
+        "lng": 16.391097
+      },
+      {
+        "name": "MUMOK The Museum of Modern Art Ludwig Foundation",
+        "description": "Also known as MUMOK, this visually striking stone-clad building is home to the largest museum of modern and contemporary art in central Europe. Inside, there’s a large collection of work from all over the world, dating from the 20th century to the present day.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/50493923.jpg?k=faa3ff6949a66d0b3039baad0f2559b9c460891b38ae3a3cbeac95838987b3e7&o=",
+        "lat": 48.203785,
+        "lng": 16.355644
+      },
+      {
+        "name": "Schönbrunn Palace and Bus City Tour",
+        "description": "This guided tour will give you an overview of the most important spots in Vienna along the famous Ringstrasse including the State Opera House, the Art and Natural History Museum, the Parliament, the City Hall and the National Theater. The tour also includes entry to Schönbrunn Palace. Once inside, you will enjoy a guided tour of the State Rooms, while you will also have some free time at your disposal.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/33775528.jpg?k=06310567952c20a59ba4fd685e1a887c1d87c4f4af106634cc663f404b6274d9&o=",
+        "lat": 48.185816,
+        "lng": 16.310575
+      },
+      {
+        "name": "Day trip to Danube Valley",
+        "description": "This day trip to the Danube Valley will take you to Danube’s Wachau Valley, a UNESCO World Heritage Site known for its many medieval castles, monasteries and excellent wines. You will drive through the wine-growing region of Krems, stop to see the ruins of Duernstein castle and take a boat ride in summer or lunch at Hotel zum Schwarzen Baeren in winter. The day trip also includes a guided tour of the Benedictine Abbey in Melk, one of Austria's most famous baroque buildings.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/37883754.jpg?k=2ef0d94ea5dd73512109eab0ff544e4e0c2ddb1dcb9fac46cd6678885e7ecf5a&o=",
+        "lat": 48.220828,
+        "lng": 16.239974
+      },
+      {
+        "name": "Leopoldstadt",
+        "description": "This district features two of Vienna’s biggest draws in one place: the Prater Park and its giant Ferris Wheel. A fairly traditional neighborhood, with many synagogues and kosher shops that cater to the largely Jewish population. On Saturdays, visit the bustling Karmeliter Market for food and contemporary art.",
+        "img": "https://q-ak.bstatic.com/xdata/images/district/max550/45737.webp?k=1af7d85387fdd3f8ce3aa23a4c56927d1cd97e51ab528d0dcee323e6fab79f6a&o=",
+        "lat": 48.203859,
+        "lng": 16.392258
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "city_name": "Berlin",
+    "img": "https://r-ak.bstatic.com/xdata/images/explorer_city/1680x560/3129.webp?k=651f912fdd5b3376c83a01d76f59b40bc1e69f12b6592193292cdb56e2f90571&o=",
+    "description": "Home to the iconic Brandenburg Gate and the famous Fernsehturm at Alexanderplatz, Berlin is a renowned global city of culture, commerce and politics. Its eclectic architecture is visual and exciting proof of its fascinating history. In 'Mitte', the city’s historical centre, you can find the famous Museum Island with the exquisite Pergamon Museum, as well as popular cafés, restaurants and clubs. The nearby Potsdamer Platz, once divided in two by the Berlin Wall, features great examples of ultramodern architecture and stunning night illumination. Berlin is the best place to try the famous Currywurst or jelly doughnuts, the Pfannkuchen. Explore the city’s bustling nightlife, famous festivals and parades, or simply walk through charming neighbourhoods like Prenzlauer Berg. Berlin is always full of things to do and see! Combining a vibrant culture and art scene, sites of historic interest like the Reichstag, and great shopping opportunities, the German capital truly is a symbol of a modern and unified Europe. Travelling to the city centre from Tegel International and Schönefeld Airports is a piece of cake using Berlin’s reliable public transit system. Whether you are looking for a cheap hostel, alternative apartment or a chic hotel, Booking.com has a perfect room for your Berlin holiday.",
+    "lat": 52.520008,
+    "lng": 13.404954,
+    "things_to_do": [{
+        "name": "German Spy Museum Berlin",
+        "description": "Berlin’s recently opened German Spy Museum unveils spectacular secret operations, mysterious espionage cases and fabled spies from the Cold War. The ‘Capital of Spies’ exhibition also displays meticulously reproduced replicas, which are supported with multimedia guides.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/29553822.jpg?k=1f6dcc8c3bf917592d06a2e9e92456c73a57e4c5e8fe438106a3820c56439c0c&o=",
+        "lat": 52.508989,
+        "lng": 13.377081
+      },
+      {
+        "name": "DDR Museum",
+        "description": "This museum offers a fascinating look at life in the former German Democratic Republic, or East Germany. Visitors can view a replica of a 1980s apartment, take a virtual tour in a Trabi car and learn how the Stasi secret police controlled citizens.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/37969629.jpg?k=9428dca744a9953ae3304ac2d548cbda155862e980a9f0654d86805757fc1a97&o=",
+        "lat": 52.519629,
+        "lng": 13.400586
+      },
+      {
+        "name": "Discover Berlin Walking Tour",
+        "description": "Taking in the awe-inspiring history of the city, this walking tour also encompasses the city’s main sights. Visitors will touch the Berlin Wall, walk through the Brandenburg Gate and stand over the remains of Hitler’s former bunker.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/23041117.jpg?k=22f3d1a3dc385bda2f72de3a895f77bb235137705aa4da97bbd07361bd384e2d&o=",
+        "lat": 52.523293,
+        "lng": 13.399981
+      },
+      {
+        "name": "One-hour City Centre Tour Boat Cruise",
+        "description": "A sightseeing cruise along the banks of the River Spree, taking in many of Berlin’s historic landmarks, such as Reichstag and Berlin Cathedral. An English-speaking guide will be on board to explain how the city has developed over the years.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/38607579.jpg?k=95692abfac7e5caf46938d848be6b5e32434538a44fd4ebd314a68259daf382f&o=",
+        "lat": 52.522063,
+        "lng": 13.387572
+      },
+      {
+        "name": "Dalí­ - The Exhibition at Potsdamer Platz Guided Tour",
+        "description": "With over 450 individual artworks from private collections worldwide, Dalí – The Exhibition showcases Salvador Dalí's fascinating surrealist style through permanent and temporary exhibitions. A team of experts will guide you through the exhibition, providing insight into the many different artistic techniques Dalí used.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/29218438.jpg?k=ec2c43be50bc31ac508c9d7f4deb5c29e1e5d6725c6ec1051523d8456d5a1a69&o=",
+        "lat": 52.508877,
+        "lng": 13.376387
+      },
+      {
+        "name": "Charlottenburg",
+        "description": "This arty district is home to affluent city-dwellers. There’s a bucolic feel to the lush grounds of the Charlottenburg Palace, which houses a collection of opulent treasures. Kaiser-Wilhelm Memorial Church is a haunting place to spend an afternoon, followed by a splurge at KaDeWe – Continental Europe’s largest department store.",
+        "img": "https://q-ak.bstatic.com/xdata/images/district/max550/44402.webp?k=ccf8f672e3533ba7fe512b9c31be3cd51f378c664ac7c5582d29d717d13a671f&o=",
+        "lat": 52.515641,
+        "lng": 13.276044
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "city_name": "London",
+    "img": "https://r-ak.bstatic.com/xdata/images/xphoto/1680x560/49345560.webp?k=b9f40f2afb962f44ea6d434de74f6e90668350e428bb3dcd917ba980b9489ea3&o=",
+    "description": "London's inherent uniqueness and mix of cultures have made it one of the most visited cities in the world. Its diverse bundle of boroughs are often like mini cities in their own right, with each one offering something different to the last. London's iconic skyline is an eclectic combination of instantly recognisable landmarks, from the historic Tower of London to the ultra-modern skyscrapers of The Shard and 20 Fenchurch (better known as 'The Walkie-Talkie'). A walk through the ‘Square Mile’ immerses you in the original Roman settlement, with parts of the ancient defensive wall still visible. You'll also find some of the London's cosiest (and oldest) pubs around there, such as Ye Olde Cheshire Cheese, a former haunt of Charles Dickens and Mark Twain. For lovers of the arts, look no further than the world-class theatres of London's West End and the live music venues of Camden, Soho and Shoreditch. You'll also find endless galleries and museums dotted around, such as the free-to-visit British Museum, Natural History Museum and the National Gallery. Amongst all the impressive architecture and endless points of interest, it's easy to forget how green London is. 47% of the city is made up of public green space, including 3,000 parks. The most popular spots include Hyde Park, Kensington Gardens and Green Park, but it's worth venturing out to places like Richmond where you can walk amongst roaming wild deer. London is served by several major airports, including Heathrow, Gatwick, City, Stansted, Luton and Southend. Travel is made easy by the extensive public transport links, as well as private coach services.",
+    "lat": 51.509865,
+    "lng": -0.118092,
+    "things_to_do": [{
+        "name": "London Film Museum – Bond in Motion Exhibition",
+        "description": "This official exhibition of James Bond vehicles showcases the various modes of transport used by the big screen’s most famous spy. As well as gadget-filled cars, visitors will also feast their eyes on aircraft, boats and motorcycles. Audio guides are recorded by Ben Collins – the stunt double for Daniel Craig in films 'Casino Royale' and 'Quantum of Solace', and the original 'Stig' from Top Gear.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/37238451.jpg?k=e44251c3119d186a97376d91c544b3e9dadaf2e645288ebfd9e537d0494347e0&o=",
+        "lat": 51.512300,
+        "lng": -0.123437
+      },
+      {
+        "name": "Tower of London with Beefeater Tour",
+        "description": "This experience includes a tour of the storied castle grounds at the Tower of London and you'll be taken around by real-life Beefeaters, the famous guardians of the Tower. You'll hear fascinating stories about the Tower’s gruesome history and you'll even get a peek at the dazzling Crown Jewels. Explore the tower and its displays at your leisure or join one of the guided tours throughout the day.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/37071220.jpg?k=b01754f82671f542da9fd145ed952503497b3e11a3b77cab3137d96a6c39eeae&o=",
+        "lat": 51.508115,
+        "lng": -0.07813
+      },
+      {
+        "name": "Legendary Burgers at Hard Rock Cafe",
+        "description": "Located just around the corner from Hyde Park, Hard Rock Cafe London – the brand's flagship branch – pairs rock 'n' roll culture with delicious American-style cuisine. This offer gives you a discount on one of their Legendary Burgers, which you can enjoy while surrounded by rock music memorabilia. After your meal, head down into The Vault – a treasure trove of more historic rock-themed items from across the globe.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/46837803.jpg?k=db826c68614f870e3037772d4060e11be292ebe04626620e802441a754c4025c&o=",
+        "lat": 51.503960,
+        "lng": -0.151460
+      },
+      {
+        "name": "Big Bus Hop-On Hop-Off Tour",
+        "description": "This guided tour allows you to soak up the city's atmosphere and enjoy fascinating facts about London's rich culture and dramatic history. The open-top double-decker buses have over 50 stops near landmarks and attractions such as Piccadilly Circus, Tower Bridge, Buckingham Palace and London Eye. You can then hop off the bus to explore as often as you wish, and re-join the tour when you're ready.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/37382584.jpg?k=827cba2b7911e3991b7285476791ceea814a6b78c84c17ed04bfe2bfc42424b2&o=",
+        "lat": 51.503989,
+        "lng": -0.166781
+      },
+      {
+        "name": "Stonehenge, Bath and Windsor Tour with Lunch",
+        "description": "This day trip takes in three of the UK's most famous destinations, starting at the Queen's favoured royal residence of Windsor Castle. You'll then move onto the mysterious Neolithic site of Stonehenge before enjoying a free lunch. The tour concludes at the UNESCO World Heritage Site of Bath city centre, where you'll observe the ancient Roman Baths and the Pump Room.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/14473699.jpg?k=5a026fb53632fc84c1a55e96e90544748ebd7c654fd18e2887bd1a5ca19beab2&o=",
+        "lat": 51.493876,
+        "lng": -0.14617
+      },
+      {
+        "name": "Kensington",
+        "description": "Kensington is a mix of residential and commercial areas that ooze class. Stretching from Old Brompton Road to Kensington High Street, you’ll find bistros, cafés and boutiques galore. Stop to admire Kensington Palace, or visit the nearby Victoria and Albert and Natural History Museums. The streets around Holland Park are perfect for walking.",
+        "img": "https://q-ak.bstatic.com/xdata/images/district/max550/37892.webp?k=66e78f2e313551fb1d1fefe698b69d3f7c9ef4d763e006f0286220f129917d63&o=",
+        "lat": 51.495929,
+        "lng": -0.210027
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "city_name": "Paris",
+    "img": "https://q-ak.bstatic.com/xdata/images/xphoto/1680x560/49345752.webp?k=50900e5723e39b2ff17c86794601fc70e29919eedd114663ba00526d8c597674&o=",
+    "description": "As the birthplace of the Age of Enlightenment and a constant trendsetter in the world of fashion, Paris has cemented itself as one of the world's must-see cities. In a country known for exceptional food, style and culture, the capital delivers on all three counts. The city is split into 20 districts (known as 'arrondissements'), which all display their own character. Le Marais (in the fourth arrondissement) is famed for its medieval, meandering lanes, full of traditional patisseries and chic boutiques. The area is also home to the iconic cathedral of Notre-Dame, considered one of the best examples of French Gothic architecture. The seventh arrondissement is home to some of Paris' most famous landmarks, including the Eiffel Tower, Les Invalides and Musée d'Orsay. Neighbouring districts also have plenty to offer, such as the famous Champs-Elysées, Arc de Triomphe and Opéra Garnier. In the centre of Paris you'll find the world-famous Musée du Louvre, home to tens of thousands of works of art, including da Vinci's 'Mona Lisa'. Further outside the city, but still worth a visit, are the mysterious Catacombs and the Château de Versailles. Each French city takes pride in its cuisine and Paris is no exception, offering some of the world's best food. You'll find everything from three-Michelin-starred establishments like Restaurant Guy Savoy, to laid-back bistros like La Mascotte. Offering fun for visitors of all ages, Disneyland Paris is located to the east of the city, in the suburb of Marne-la-Vallée and can be reached easily by train.",
+    "lat": 48.864716,
+    "lng": 2.349014,
+    "things_to_do": [{
+        "name": "National Museum of Modern Art Pompidou – Tourism Board Ticket",
+        "description": "The Centre Pompidou is an architectural marvel, immediately recognisable by its exterior escalators and enormous coloured tubing. Inside, visitors can see one of the world's largest modern art collections, home to masterpieces by the likes of Miro, Dali and Kandinsky.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/11816522.jpg?k=cbecb4a7fa539c49e24ffc5609adfab4cc3a60f29495281bb8202035a5837613&o=",
+        "lat": 48.860645,
+        "lng": 2.350056
+      },
+      {
+        "name": "Grévin Paris – Celebrity Wax Museum",
+        "description": "With over 200 intricate waxwork models, the Musée Grévin promises unforgettable encounters with world-famous personalities from the past and the present. Pose alongside stars such as George Clooney, Brad Pitt and Marilyn Monroe, or politicians like Angela Merkel and Donald Trump.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/18610836.jpg?k=258349ef0e23a912dfa875916a46b589753f2e57262da715724c0ddef6af90a6&o=",
+        "lat": 48.871841,
+        "lng": 2.340031
+      },
+      {
+        "name": "Big Bus Paris",
+        "description": "This hop-on, hop-off tour includes the Central and Montmartre lines which pass over 50 famous sights. A night tour route is also available, offering you the chance to see the illuminated landmarks of Paris on a two-hour trip. A cruise along the Seine river can be added as an optional extra and provides an entirely different way to explore the sights.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/40751464.jpg?k=71ea1df7b0dffabc2f7e816c0e71eaab4ac4c0c40514832261e24c0d348f1285&o=",
+        "lat": 48.867657,
+        "lng": 2.307217
+      },
+      {
+        "name": "Opera Garnier Guided Tour",
+        "description": "This tour of the baroque designs of the Opera Garnier offers a peek at 19th-century splendour. See the steps where well-dressed attendees descended and view the impressive sculptures and paintings housed in this extravagant building. The tour ends in the Glacier Rotunda, a later addition to the building.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/31831555.jpg?k=f487c377dc0d6f1dadf707fc2db8085c1aa0b6bf96425e4025194d7a63be367d&o=",
+        "lat": 48.871973,
+        "lng": 2.329412
+      },
+      {
+        "name": "VIP Access to Palace of Versailles",
+        "description": "The Palace of Versailles is home to over 60,000 artefacts and the famous Hall of Mirrors. Guests can choose between a guided tour or an audio guide for a self-guided tour. Tickets are also valid for the famous gardens and when fountain shows are taking place from April until October. Visitors may choose an option which includes the Marie-Antoinette Trianon.",
+        "img": "https://q-xx.bstatic.com/xdata/images/xphoto/900x600/19557018.jpg?k=b883efb3cfcc5701a16a971232a9b1776f9396b83d905952e6b9a23255c3ff8f&o=",
+        "lat": 48.804868,
+        "lng": 2.117887
+      },
+      {
+        "name": "1st arr.",
+        "description": "Many visitors head straight for the Louvre, but it's worth exploring the other landmarks, museums, shops, restaurants and bars that make up this small district on the right bank of the River Seine. The area also includes the western part of the Île de la Cité. Don’t miss the Orangerie Museum, Sainte Chapelle or the Palais Royal Gardens.",
+        "img": "https://q-ak.bstatic.com/xdata/images/district/max550/42035.webp?k=8e4c3ad81d68dc89dd78ba64740f0294de8d4f7ac832df63445667fbd5e65b2a&o=",
+        "lat": 48.862012,
+        "lng": 2.327166
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "city_name": "Istanbul",
+    "img": "https://q-ak.bstatic.com/xdata/images/xphoto/1680x560/49345484.webp?k=69a8e45fc40ba3576548c4e23c400233a0e03d8808758f52d98318e6fdc397c4&o=",
+    "description": "Straddling the border between Europe and Western Asia, Istanbul acts as an ancient crossroads of cultures, religions and civilisations. Greek, Persian, Byzantine and Ottoman influences can be seen across the city. The mesmerising Hagia Sophia, for instance, stood for over 1,000 years as an ornate church before being converted into an Imperial Mosque, which it remained as for over half a millennia. And there’s Topkapi Palace, a lavish complex of halls, courtyards and terraces with commanding views over the Bosphorus Strait. Today, both structures are religious museums attracting millions of visitors every year. The Blue Mosque is another glinting example of Byzantine-Ottoman fused architecture, with its domes, towering minarets and blue İznik tiles that adorn the interior. For a full view of the mosque’s design, enter through the crumbling remains of a Roman-era hippodrome in Sultanahmet Square. Yet Istanbul’s oldest monuments could easily escape you. Deep beneath the ground are several hundred ancient cisterns, where water was once delivered via 20 kilometres of aqueducts from a local reservoir. The largest of these is the Basilica Cistern, which you can explore along raised wooden platforms. Back on ground level, the Grand Bazaar will entice you with its maze-like network of craft stores and cosy teahouses. Go explore a little, before treating yourself to a Dürüm wrap on a street corner, or a mouthwatering meze in a bistro-style restaurant in Sultanahmet.",
+    "lat": 41.015137,
+    "lng": 28.97953,
+    "things_to_do": [{
+        "name": "Rahmi M. Koç Museum",
+        "description": "You’ll learn more about the history of transportation, industry and communication in this museum. Featuring thousands of items from miniatures to a full-sized submarine, the collection is housed in two historic buildings and an open-air exhibition area. Located in a beautiful building on the shore of the historic Golden Horn, the museum houses the collection of thousands of items from gramophone needles to full size aircraft.",
+        "img": "https://r-ak.bstatic.com/xdata/images/xphoto/max320/51393927.webp?k=7512162fbd21e7561bbac4e13c957cc393a43e407dc50e379c2f71096a72e256&o=",
+        "lat": 41.041660,
+        "lng": 28.946983
+      },
+      {
+        "name": "Istanbul Toy Museum",
+        "description": "Established by poet and writer Sunay Akın, Istanbul Toy Museum is home to thousands of toys, some of which date back over 400 years. Inside, a gallery of space-related toys comes with shining stars overhead, and miniature train sets are displayed in a genuine train compartment. You’ll even pass through a submarine on your way to the bathroom. Afterwards, take a break in a cafe decorated with antique dollhouses and miniature furniture. Then, pass by the gift shop where Sunay Akin's books and other toy-themed souvenirs are sold.",
+        "img": "https://q-ak.bstatic.com/xdata/images/xphoto/max320/52831478.webp?k=6ae46d3bdd6a24df3644e00583a7fb68035bea507b958080e70592b96b646d7d&o=",
+        "lat": 40.975886,
+        "lng": 29.068479
+      },
+      {
+        "name": "Guided Tour of Princes Island from Istanbul",
+        "description": "Cruise over Sea of Marmara to the Princes' Islands famous for their beautiful pine woods and beaches. The largest and most popular of the islands is Buyukada. There you can enjoy a ride in a horse-drawn carriage among the pine trees after relaxing on the beaches in the numerous coves of its coast. Spend a slow and quiet day as you pass by traditional Ottoman mansions and Victorian villas, listening to sounds of hoof beats and bicycles along the way. There also may be a chance to spot the other islands as you sail around the Golden Horn. Evening return to Istanbul and transfer to hotel as the tour finishes between 17:00 and 18:00.",
+        "img": "https://q-ak.bstatic.com/xdata/images/xphoto/max320/49610248.webp?k=ec3689284583fb4cdf43d5cbf883875d64c9327f86c3d806bb4411706fdc0266&o=",
+        "lat": 40.975998,
+        "lng": 29.000627
+      },
+      {
+        "name": "Bursa Full Day Tour from Istanbul",
+        "description": "This full-day guided tour takes visitors to the main sights of Bursa, starting with a ferry ride from Istanbul and then a drive through the countryside to the former Ottoman capital. It also includes a cable car ride to the top of Uludağ – known historically as Mount Olympus – so you can enjoy stunning panoramic views. After lunch, you'll visit the old Silk Market in the covered bazaar, as well as the Green Mosque, Grand Mosque and a 600-year-old pine tree and several outlet malls, before returning to Istanbul in the evening.",
+        "img": "https://r-ak.bstatic.com/xdata/images/xphoto/max320/49609424.webp?k=0e95ce33a60e4e37b5f241f719b1c756a4af79603e44989d9aa770b00c6b3424&o=",
+        "lat": 41.023681,
+        "lng": 28.960243
+      },
+      {
+        "name": "Full Day Trip to Masukiye and Lake Sapanca",
+        "description": "This day trip begins with a trip to a scenic botanical garden with over 400 plant species and 8,000 plant populations. Afterwards, lunch will be served in Masukiye's forest beside a picturesque waterfall, providing plenty of time to relax and take photos. The tour ends with a tea break at beautiful Lake Sapanca.",
+        "img": "https://q-ak.bstatic.com/xdata/images/xphoto/max320/49610916.webp?k=9e71cf6f641e95942d55ed108ec6d6fe12e495d80255fc29099f069f8deda203&o=",
+        "lat": 40.717538,
+        "lng": 30.170396
+      },
+      {
+        "name": "Old City Sultanahmet",
+        "description": "Begin your adventure in Sultanahmet Square, gateway to the historic centre. In Topkapi Palace, Byzantine artefacts sparkle through the display cases as light beams in. Hagia Sophia’s mosaics are time worn, reflecting the history of a space that has been both mosque and church across 1.5 millennia. Zany bars and cosy cafes beckon you.",
+        "img": "https://q-ak.bstatic.com/xdata/images/district/max550/37938.webp?k=73a06465b3e8f8da218b73fc465a05433cdf0f4771ebbb6726047bb8b2ff3361&o=",
+        "lat": 41.006602,
+        "lng": 28.968433
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "city_name": "Moscow",
+    "img": "https://r-ak.bstatic.com/xdata/images/xphoto/1680x560/49345773.webp?k=3143e60b42e6c8a27d3ec9cb96254ec5fee1db6c9d3747278183f3958e7cbaef&o=",
+    "description": "Russia's prestigious capital holds its own on the global stage, with stunning architecture, museums and a variety of cultural offerings making it an enticing place to visit any time of year. Set foot on the black cobblestones of Moscow's iconic Red Square and you'll be treated to a breathtaking panorama dominated by the Kremlin's extensive brick walls and St. Basil's Cathedral. This is the historic heart of the city, and where many festivals and celebrations take place. You'll also find the Lenin Mausoleum there, as well as The Monument to Minin and Pozharsky. Moscow is also home to a wide array of museums and architectural highlights, including the Pushkin Museum of Fine Arts, the Flacon Design Factory and an armoury dating back to 1511. The city is no stranger to the arts either, with the Natalya Sats Musical Theatre offering experimental productions for all ages. You can also catch some world-class ballet and opera at the Bolshoi, a six-tier auditorium which has hosted performances since 1825. The impressive Zaryadye Park is a great place to switch off for an hour or two, and features four different climate zones, an Arctic cave and an unmeltable glacier.",
+    "lat": 55.751244,
+    "lng": 37.618423,
+    "things_to_do": [{
+        "name": "Moscow Museum of Soviet Arcade Machines",
+        "description": "The Museum of Soviet Arcade Machines was founded by three young enthusiasts who collected arcade machines from different parts of the former Soviet Union. They brought them back to life so that you can revel in nostalgia as you play games like ‘Magistral’, ‘Sniper’, ‘Battleship’ and ‘Rally M’. Now more than ten years old, the museum hosts an ever-growing collection of arcades.",
+        "img": "https://q-ak.bstatic.com/xdata/images/xphoto/max320/54113120.webp?k=f84b7667b978c7f3d0fb63af5dba5ac6641c6fc987d94a5ae8ec3a34b94e9170&o=",
+        "lat": 55.761745,
+        "lng": 37.619016
+      },
+      {
+        "name": "The Museum of Technics of Vadim Zadorozhny",
+        "description": "With around 1,000 exhibits in its collection, this museum houses Russia’s largest private collection of vintage technical equipment. You can find an array of antique cars, motorcycles and engines on display, and there is also an area dedicated to military aircraft and armoured vehicles used during WWII.",
+        "img": "https://q-ak.bstatic.com/xdata/images/xphoto/max320/45614803.webp?k=ae6a190561c70b89214d6b581213df043e0ee8a1c2f435e41abd79d4810916a9&o=",
+        "lat": 55.796541,
+        "lng": 37.296059
+      },
+      {
+        "name": "Moscow Metro Tour",
+        "description": "Nicknamed 'the people's palace', Moscow Metro is often touted as one of the world's most beautiful Metro systems. With stunning sculptures at Kurskaya Station's lobby, stained glass panels at Novoslobodskaya station, and mural mosaics at Komsomolskaya station, it's a veritable showcase for Soviet-era artists. Many stations, such as  Komsomolskaya, Revolution square, Novoslobodskaya and Mayakovskaya, were constructed under rule of Stalin, and have interesting stories behind them. Listen as your guide reveals all about this historic Metro system.",
+        "img": "https://q-ak.bstatic.com/xdata/images/xphoto/max320/40760219.webp?k=835d7b2a74c9aa14e71fe613d40ab9c46e28d144c87627644ab1d0464491e847&o=",
+        "lat": 55.784849,
+        "lng": 37.506497
+      },
+      {
+        "name": "Communist Moscow Tour",
+        "description": "During the tour, the guide will take you to the Bolshoi theatre and the first McDonalds in the USSR. Your guide will tell you about the hidden pages of Soviet history from the Great October Revolution to Perestroika, from Lenin to Gorbachev. You will also learn about the Great Terror under Stalin, the GULAG system, secret KGB prison and how people lived in the Soviet Union.",
+        "img": "https://r-ak.bstatic.com/xdata/images/xphoto/max320/49972912.webp?k=6f84d4fcb2c6ab32d1d9fadf7614875103f020116a83a535788d03c25777ba7d&o=",
+        "lat": 54.467141,
+        "lng": 19.847858
+      },
+      {
+        "name": "Kremlin Guided Tour",
+        "description": "The Moscow Kremlin encapsulates Russia’s long and fascinating history, as well as its spiritual and cultural heritage. This guided tour lets you explore and learn all about the complex, which includes attractions like Tsar Cannon, Tsar Bell and Cathedral Square. Uspenskii Cathedral, one of the stops of the tour, is the heart of the Russian Orthodox Church. It has been the setting for important coronations and election ceremonies, as well as many monumental political decisions. You'll also have the option to select a combination ticket that allows you access to the Armoury Chamber. Besides weapons and other historic military equipment, various historical treasures are displayed at this museum.",
+        "img": "https://r-ak.bstatic.com/xdata/images/xphoto/max320/43714823.webp?k=e10de5c4757b324f2947f3cf23e1a5951074ba14080b142bb8eaff4d30bec0fb&o=",
+        "lat": 55.750118,
+        "lng": 37.613582
+      },
+      {
+        "name": "Zamoskvorechye",
+        "description": "Wind back your pocket watch and get lost in Soviet-era glamour. Zamoskvorechye’s faded beauty comes into focus as you wind through the streets. Every turn reveals dramatic neo-classical architecture. The State Tretyakov Gallery is an essential stop for lovers of fine art, consistently ranked among Russia’s best collections.",
+        "img": "https://q-ak.bstatic.com/xdata/images/district/max550/46846.webp?k=548f9f8a568b744104b7467ab35e56502108cb9ad25153383e155d212b4b2056&o=",
+        "lat": 55.735018,
+        "lng": 37.599375
+      }
+    ]
+  }
+]

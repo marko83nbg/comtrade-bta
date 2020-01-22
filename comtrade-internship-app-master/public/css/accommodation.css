@@ -1,0 +1,258 @@
+#user-img {
+  border-radius: 50%;
+}
+
+.main-button {
+  color: #e3e7ee;
+  background-color: #ff5c88;
+  transition: 1s ease all;
+}
+
+.main-button:hover {
+  background-color: #e3e7ee;
+  color: #ff5c88;
+  border: 1px solid #ff5c88;
+}
+
+.header-style {
+  height:100%;
+  width: 100%;
+  background-color:#384867;
+  padding:15px 50px;
+  color: #e3e7ee;
+}
+
+.header-style h1 {
+  font-size: 2em;
+}
+
+.header-style h3 a {
+  color: #ff5c88!important;
+}
+
+.header-style a {
+  color: #ff5c88;
+}
+
+.header-style .dodaj-feed {
+  background-color: #e3e7ee;
+  color: #ff5c88;
+}
+
+.header-style .dodaj-feed:hover {
+  color: #e3e7ee;
+  background-color: #ff5c88;
+}
+
+.header-style .header-feedback {
+  background-color: #e3e7ee;
+  color: #384867;
+}
+
+.header-style .header-feedback i.fa-star {
+  color: #ff5c88;
+}
+
+.accommodation-body {
+  background-color: #5a6f98;
+  color: #e3e7ee;
+}
+
+.accommodation-list-item {
+  background-color: #5a6f98;
+  color: #e3e7ee;
+  border: none;
+}
+
+.accommodation-list-item h2 {
+  font-size: 1.6em;
+}
+
+.accommodation-list-item a {
+  color: #e3e7ee;
+}
+
+.accommodation-list-item a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.bodyWrapper {
+  background-color: rgba(56, 72, 103, 0.5);
+}
+
+#addFeed .modal-content {
+  background-color: #e3e7ee;
+}
+
+#addFeed .modal-header {
+  padding: 0!important;
+}
+
+#addFeed h4 {
+  margin: 0;
+}
+
+#addFeed .modal-body {
+  padding-top: 10px!important;
+}
+
+#addFeed input[type="text"] {
+  border: none;
+  border-bottom: 1px solid rgb(206, 207, 209);
+}
+
+#addFeed .close {
+  margin-right: 1px!important;
+  margin-top: 0px!important;
+}
+
+#modalFeedback .modal-content {
+  background-color: #e3e7ee;
+}
+
+.imeFedback {
+  background-color: #e3e7ee;
+}
+
+
+#body {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.image-height {
+  max-height: 350px !important;
+  width: auto !important;
+}
+
+.strelica-slider {
+  background-color: transparent;
+}
+
+.carousel-icons {
+  font-size: 2em;
+  color: rgb(54, 54, 54);
+  background-color: rgb(230, 222, 222);
+  border: 1px solid rgb(230, 222, 222);
+  border-radius: 50%;
+}
+
+#forma-comment {
+  display: none;
+}
+
+.delete-comment {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  cursor: pointer;
+  font-size: 1.2em;
+}
+
+.delete-feedback {
+  cursor: pointer;
+  font-size: 1.2em;
+  display: inline-block;
+}
+
+.current-hotel-rating {
+  color: navy;
+}
+
+#login-obavestenje {
+  color: white;
+}
+
+/* Rating zvezdice */
+*{
+  margin: 0;
+  padding: 0;
+}
+.rate {
+  height: 40px;
+  float: left;
+}
+.rate:not(:checked) > input {
+  position:absolute;
+  top:-9999px;
+}
+.rate:not(:checked) > label {
+  float:right;
+  width:1em;
+  overflow:hidden;
+  white-space:nowrap;
+  cursor:pointer;
+  font-size:20px;
+  color:#ccc;
+}
+.rate:not(:checked) > label:before {
+  content: '★ ';
+}
+.rate > input:checked ~ label {
+  color: #ffc700;    
+}
+.rate:not(:checked) > label:hover,
+.rate:not(:checked) > label:hover ~ label {
+  color: #deb217;  
+}
+.rate > input:checked + label:hover,
+.rate > input:checked + label:hover ~ label,
+.rate > input:checked ~ label:hover,
+.rate > input:checked ~ label:hover ~ label,
+.rate > label:hover ~ input:checked ~ label {
+  color: #c59b08;
+}
+
+#map {
+  position: relative;
+  z-index: 100;
+  width: 600px;
+  height: 450px;
+  margin: 0 auto;
+}
+
+.mapboxgl-canvas {
+  left: 0!important;
+}
+
+#map-menu {
+  position: absolute;
+  background: #fff;
+  padding: 10px;
+  font-family: 'Open Sans', sans-serif;
+  top: 7px;
+  left: 7px;
+  z-index: 1000; 
+  }
+
+  /* #map-menu input, label {
+        display: block;
+  } */
+
+  label {
+      margin-right: 5px;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .image-height {
+      max-height: auto !important;
+      width: 100% !important;
+    }
+  }
+
+  @media only screen and (max-width: 992px) {
+    #map {
+      width: 400px;
+      height: 300px;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    #map {
+      width: 300px;
+      height: 230px;
+    }
+  }

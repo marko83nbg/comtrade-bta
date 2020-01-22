@@ -1,0 +1,52 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+#cityList li a:link,
+#cityList li a:visited {
+  text-decoration: none; 
+}
+.cityMainImg {
+  width: 100%;
+  object-fit: cover;
+}
+
+#user-img {
+  border-radius: 50%;
+}
+
+nav {
+  background-image: linear-gradient(to top right, #d2bdf3, #1b7cdd);
+  color: #fff;
+}
+
+nav .logo {
+  color: #ff4b7b;
+}
+
+nav .logo:hover {
+  color: #f10c49;
+}
+
+nav  a {
+  color: #fff;
+}
+
+nav  a:hover {
+  color: #ff4b7b;
+}
+
+nav  button {
+  background: transparent;
+  color: #fff;
+  border: 1px solid #fff!important;
+}
+
+nav  button:hover {
+  color: #ff4b7b;
+  border: 1px solid #ff4b7b!important;
+}
+
+.mainCityLinks:hover {
+  color: #080b13!important;
+}

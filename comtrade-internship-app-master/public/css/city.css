@@ -1,0 +1,424 @@
+#body {
+  background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bodyWrapper {
+  background-color: rgba(56,72,103,0.7);
+}
+
+#user-img {
+  border-radius: 50%;
+}
+
+#main-header img {
+  width: 100%;
+  height: 100%;
+}
+
+.bg-black {
+  color: white;
+  background: black;
+}
+
+#main-header .tab-item {
+  width: 33.33%;
+}
+
+#main-header .tab-item:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.dataDiv {
+  background-color:#384867;
+}
+
+.dataDiv h1{
+  color: #e3e7ee;
+}
+
+.dataDiv p{
+  color: #e3e7ee;
+}
+
+.divContentWraper {
+  margin: 0px;
+  margin: 0px;
+}
+
+.weatherWrapper {
+  background-color:#4c6491;
+  
+}
+
+#date {
+  color: #e3e7ee;
+  font-weight: bold;
+}
+
+.bg-info1 {
+  background-color: #4c6491;
+}
+
+.temp, .temp span {
+  color: #ff5c88;
+}
+
+.weatherIconWrapper {
+  color: #e3e7ee;
+}
+
+.accommodationTab {
+  background-color:#5a6f98;
+  color: #e3e7ee;
+}
+
+.citylifeTab {
+  background-color:#6977fc;
+  color: #e3e7ee;
+}
+
+.feedbackTab {
+  background-color:#00b8d9;
+  color: #e3e7ee;
+}
+
+#accomodation .card-body {
+  background-color: #5a6f98;
+  color: #e3e7ee;
+}
+
+#lifeInCity .card-body {
+  background-color: #6977fc;
+  color: #e3e7ee;
+}
+
+#feedback .card-body {
+  background-color: #00b8d9;
+  color: #e3e7ee;
+}
+
+#moreBtn1, #moreBtn {
+  background-color: #ff5c88;
+  border: 1px solid #ff5c88;
+  transition: 1s ease;
+}
+
+#moreBtn1:hover, #moreBtn:hover {
+  background-color: #e3e7ee;
+  border: 1px solid #e3e7ee;
+  color: #ff5c88;
+}
+
+#topAccomodations li a:link,
+#topAccomodations li a:visited {
+  text-decoration: none;
+}
+
+#login-obavestenje {
+  color: white;
+}
+.userCityFeedback {
+  height: 50px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.filtriranFeedbackOpis {
+  padding:10px;
+}
+
+#comment-on-feedback {
+  margin-bottom: 10px;
+}
+
+.listBack {
+  background: transparent;
+  border: none;
+}
+
+.listContent {
+  color: #e3e7ee;
+  transition: 1s ease;
+}
+
+.listContent:hover {
+  color: #fff;
+}
+
+.listBack a:hover {
+  text-decoration: none;
+}
+
+.card {
+  background-color: #e3e7ee;
+}
+
+.feedbackUserName, .userCityFeedback {
+  color: #384867;
+}
+
+.znamenje-hover:hover {
+  cursor: pointer;
+  background-color: teal;
+}
+
+.card-body1 {
+  background: transparent !important;
+}
+
+.delete-feedback {
+  cursor: pointer;
+  font-size: 1.2em;
+  display: inline-block;
+}
+
+.cityFeedbackModalContent {
+  background-color: #e3e7ee;
+}
+
+.prikazi-modal, .sendComment, #btnFooterToggle, .btnSubmit {
+  background-color: #ff5c88;
+  border: 1px solid #ff5c88;
+  transition: 1s ease;
+  color: #e3e7ee;
+}
+
+.prikazi-modal:hover, .sendComment:hover, #btnFooterToggle:hover, .btnSubmit:hover {
+  background-color: #e3e7ee;
+  border: 1px solid #ff5c88;
+  color: #ff5c88;
+}
+
+.modalFeedbackContent, .nameUserComment {
+  background-color: #e3e7ee;
+}
+
+.nameUserComment {
+  color: #384867;
+}
+
+@media (min-width: 320px) {
+  .cityHeadline {
+    font-size: 20px;
+  }
+
+  .cityText {
+    font-size: 12px;
+  }
+
+  .dataDiv {
+    height: 15%;
+  }
+
+  .tabHeadline {
+    font-size: 12px;
+  }
+
+  .cardBodyHeadline {
+    font-size: 16px;
+  }
+
+  #nameAccomod {
+    font-size: 16px;
+  }
+  #descriptionAccomod {
+    display: none;
+  }
+  .moreClass {
+    display: none;
+  }
+  .moreClass1 {
+    display: none;
+  }
+
+  .cardBodyHeadline {
+    margin-bottom: 0px;
+    margin-top: 7px;
+}
+
+.addFeedBtnCity {
+  width: 30%;
+  font-size: 12px;
+  background-color: #ff5c88;
+  border: 1px solid #ff5c88;
+  transition: 1s ease;
+}
+
+.addFeedBtnCity:hover {
+  background-color: #e3e7ee;
+  border: 1px solid #e3e7ee;
+  color: #ff5c88;
+}
+
+}
+
+@media (min-width: 576px) {
+  .cityHeadline {
+    font-size: 25px;
+  }
+  .cardBodyHeadline {
+    font-size: 24px;
+  }
+  #nameAccomod {
+    font-size: 18px;
+  }
+  #descriptionAccomod {
+    display: block;
+    font-size: 14px;
+  }
+
+  .addFeedBtnCity {
+    width: 21%;
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 768px) {
+  .tabHeadline {
+    font-size: 18px;
+  }
+  .cardBodyHeadline {
+    font-size: 32px;
+    margin-top: 0px;
+  }
+
+  .addFeedBtnCity {
+    width: 16%;
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 992px) {
+  .cityHeadline {
+    font-size: 30px;
+  }
+
+  #nameAccomod {
+    font-size: 20px;
+}
+
+  .cityText {
+    font-size: 16px;
+  }
+  .tabHeadline {
+    font-size: 24px;
+  }
+  #descriptionAccomod {
+    font-size: 16px;
+  }
+
+  .addFeedBtnCity {
+    width: 13%;
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 1199px) {
+  .tab-item {
+    padding: 3em !important;
+  }
+
+  .dataDiv {
+    height: 80%;
+  }
+}
+
+.delete-comment {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  cursor: pointer;
+  font-size: 1.2em;
+}
+
+/* Rating zvezdice */
+*{
+  margin: 0;
+  padding: 0;
+}
+.rate {
+  height: 40px;
+  float: left;
+}
+.rate:not(:checked) > input {
+  position:absolute;
+  top:-9999px;
+}
+.rate:not(:checked) > label {
+  float:right;
+  width:1em;
+  overflow:hidden;
+  white-space:nowrap;
+  cursor:pointer;
+  font-size:20px;
+  color:#ccc;
+}
+.rate:not(:checked) > label:before {
+  content: '★ ';
+}
+.rate > input:checked ~ label {
+  color: #ffc700;    
+}
+.rate:not(:checked) > label:hover,
+.rate:not(:checked) > label:hover ~ label {
+  color: #deb217;  
+}
+.rate > input:checked + label:hover,
+.rate > input:checked + label:hover ~ label,
+.rate > input:checked ~ label:hover,
+.rate > input:checked ~ label:hover ~ label,
+.rate > label:hover ~ input:checked ~ label {
+  color: #c59b08;
+}
+#comment-on-feedback {
+  display: none;
+}
+
+
+#map {
+  position: relative;
+  z-index: 100;
+  width: 600px;
+  height: 450px;
+  margin: 0 auto;
+}
+
+.mapboxgl-canvas {
+  left: 0!important;
+}
+
+#map-menu {
+  position: absolute;
+  background: #fff;
+  padding: 10px;
+  font-family: 'Open Sans', sans-serif;
+  top: 7px;
+  left: 7px;
+  z-index: 1000; 
+  }
+
+  /* #map-menu input, label {
+        display: block;
+  } */
+
+  label {
+      margin-right: 5px;
+  }
+
+  @media only screen and (max-width: 992px) {
+    #map {
+      width: 400px;
+      height: 300px;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    #map {
+      width: 300px;
+      height: 230px;
+    }
+  }

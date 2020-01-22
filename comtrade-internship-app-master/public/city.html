@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>City page</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- font awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <!-- jQuery -->
+  <script src="./bootstrap/jquery-3.3.1.min.js"></script>
+  <!-- Popper -->
+  <script src="./bootstrap/popper.min.js"></script>
+  <!-- BOOTSTRAP .css -->
+  <link rel="stylesheet" type="text/css" media="screen" href="./bootstrap/bootstrap.min.css" />
+  <!-- BOOTSTRAP .js -->
+  <script src="./bootstrap/bootstrap.min.js"></script>
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300i,400,700&display=swap" rel="stylesheet">
+  <!-- Our sources -->
+  <link rel="stylesheet" type="text/css" media="screen" href="./css/main.css" />
+  <link rel="stylesheet" type="text/css" media="screen" href="./css/city.css" />
+  <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.1/mapbox-gl.js"></script>
+  <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.1/mapbox-gl.css" rel="stylesheet" />
+
+  
+</head>
+
+<body id="body">
+  <div class="bodyWrapper">
+  <nav class="navbar navbar-expand-md navbar-fixed-top bg-primary">
+    <div class="container-fluid">
+      <a class="navbar-brand my-auto font-weight-bold logo" href="./index.html">BTA</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon">
+          <i class="fas fa-bars"></i>
+        </span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav nav nav-pills align-self-center text-uppercase ml-auto">
+          <li class="nav-item ml-4">
+            <a class="nav-link" href="./index.html">Home</a>
+          </li>
+          <li class="nav-item ml-4 d-none">
+            <a class="nav-link" href="">Add Accomodation</a>
+          </li>
+        </ul>
+
+        <a href="index.html">
+          <button id="btnLogin" type="button" class="btn ml-5 d-none" data-toggle="modal"
+            data-target="#loginModal">
+            Login
+          </button>
+        </a>
+        <div id="btnLogout" class="pl-4">
+          <span id="loggedUser"></span>
+          <img id="user-img" src="" height='50'/>
+          <button type="button" class="btn ml-3" id="logout-button">
+            Logout
+          </button>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container" id="glavni-container">
+    <header id="main-header">
+      <div style="min-height:300px" class="row no-gutters">
+        <div style="height:100%" class="col-lg-12 align-items-stretch " id="city-img">
+
+        </div>
+        <div style="min-height:300px" class="col-lg-12">
+          <div class="d-flex flex-column">
+            <div class="p-2 dataDiv">
+              <div class="row d-flex flex-row align-items-center h-100 divContentWraper">
+                <div class="col-lg-8 col-md-12 pt-4 h-100  flex-column flex-row d-flex" id="city-description">
+                  
+                </div>
+                
+                <div class="d-flex flex-column flex-row pt-2 col-lg-4 col-md-12 h-100 weatherWrapper">
+                  <div class="row h-50">
+                      <div class="container justify-content-center">
+                        <div id="date" class="row justify-content-center lead mb-2">
+                          
+                        </div>
+                        <div style="font-size:2rem;" class="row justify-content-center w-50 mx-auto  bg-info1 temp rounded-top">
+                          <span id="stringWeather"></span>&#8451;				
+                        </div>							
+                        <div style="font-size:1.5rem;" id="description" 
+                        class="row text-white justify-content-center w-50 mb-3 mx-auto bg-info1 rounded-bottom">
+                          			
+                        </div>
+                        <div style="font-size:1.25rem;" class="row weatherIconWrapper">
+                          <div class="col-4 text-center d-flex flex-column py-2">
+                              <i class="fas fa-umbrella d-inline-block"></i>
+                          </div>
+                          <div class="col-4 text-center d-flex flex-column pb-0 pt-0">
+                            <span class="d-inline-block text-center font-weight-bold">mbar</span>
+                          </div>
+                          <div class="col-4 text-center d-flex flex-column py-2">
+                            <i class="fas fa-wind d-inline-block"></i>
+                          </div>				
+                        </div>
+                        <div style="font-size:1.25rem;" class="row justify-content-center bg-info1 mx-0">
+                          <div id="humidity" class="col-4 text-center text-white font-weight-bold">
+
+                          </div>
+                          <div id="pressure" class="col-4 text-center text-white font-weight-bold">
+
+                          </div>
+                          <div id="wind" class="col-4 text-center text-white font-weight-bold">
+
+                          </div>			
+                        </div>	
+                      </div>
+                  </div>
+                  <div class="row h-50 mt-4 mx-0 d-block">
+                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                      <div class="carousel-inner w-100">
+
+                      </div>
+                      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                      </a>
+                      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                      </a>
+                    </div>
+                  </div> 
+                </div>
+              </div>
+            </div>
+
+            <div style="height:20%" class="d-flex flex-row  text-center">
+              <div  class="tab-item p-1 d-flex justify-content-center accommodationTab" data-toggle="collapse" data-target="#accomodation">
+                  <!-- <i class="fas fa-home fa-2x d-block"></i> -->
+                <h4 class="align-self-center tabHeadline">Accommodation</h4> 
+              </div>
+              <div  class="tab-item p-1 d-flex justify-content-center citylifeTab" data-toggle="collapse" data-target="#lifeInCity">
+                  <!-- <i class="fas fa-graduation-cap fa-2x d-block"></i> -->
+                  <h4 class="align-self-center tabHeadline">City Life</h4>             
+              </div>
+              <div class="tab-item p-1 d-flex justify-content-center feedbackTab" data-toggle="collapse" data-target="#feedback">
+                  <!-- <i class="fas fa-envelope fa-2x d-block"></i> -->
+                  <h4 class="align-self-center tabHeadline">Feedback</h4> 
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Accomodations -->
+    <div id="accomodation" class="collapse show">
+      <div class="card card-body py-5">
+        <div class="text-white-py-5 clearfix">
+            <h2 class="d-inline-block float-left cardBodyHeadline">Accomodations</h2>
+            <input id="moreBtn" class="btn btn-primary d-inline-block float-right" type="button" value="Show more..."/>
+              <!-- <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, unde!</p> -->
+        </div>
+        <ul id="topAccomodations" class="list-group mt-3 mb-4">
+
+        </ul>
+      </div>
+      </div>
+
+    <!-- Life in city -->
+    <div id="lifeInCity" class="collapse">
+        <div class="card card-body py-5">
+            <div class="text-white-py-5 clearfix">
+                <h2 class="d-inline-block float-left cardBodyHeadline">Top Attractions</h2>
+                <input id="moreBtn1"  class="btn btn-primary d-inline-block float-right" type="button" value="Show more..."/>   
+                  <!-- <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, unde!</p> -->
+            </div>
+            <ul id="cityAttractions" class="list-group mt-3 mb-4">
+    
+            </ul>
+          </div>
+    </div>
+
+
+    <!-- Feedback -->
+    <div id="feedback" class="collapse">
+      <div class="card card-body py-5">
+        <h2 class="cardBodyHeadline">Feedback</h2>
+        <button class='btn btn-primary d-inline-block mb-3 addFeedBtnCity' type='button' data-toggle='modal' data-target='#addFeedCity' id="button-add-feedback">Feedback</button>
+
+  
+    <div class="container">
+      <div class="row" id="commentListFeedbacka">
+        
+        
+        
+    </div>
+  
+
+  
+    </div>
+  </div>
+
+
+    <!-- FOOTER -->
+
+  </div>
+
+  <!-- Feedback modal -->
+
+<div class="modal fade bd-example-modal-lg" id="modalFeedback" tabindex="-1" role="dialog"
+  aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  
+</div>
+<!-- Modal za grad feedback dodavanje -->
+<div class="modal fade bd-example-modal-lg" id="addFeedCity" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content cityFeedbackModalContent">
+      <div class="modal-header">
+        <div class="row card-body">
+          <div class="col-8">
+            <h4 id="modal-add-feedback-username">Username</h4>
+          </div>
+        </div>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form class="w-100 p-0" id="form-city-feedback">
+          <div class="clearfix">
+            <div class="rate">
+              <input type="radio" id="star5" name="rate" value="5" required/>
+              <label for="star5" title="text">5 stars</label>
+              <input type="radio" id="star4" name="rate" value="4" required/>
+              <label for="star4" title="text">4 stars</label>
+              <input type="radio" id="star3" name="rate" value="3" required/>
+              <label for="star3" title="text">3 stars</label>
+              <input type="radio" id="star2" name="rate" value="2" required/>
+              <label for="star2" title="text">2 stars</label>
+              <input type="radio" id="star1" name="rate" value="1" required/>
+              <label for="star1" title="text">1 star</label>
+            </div>
+          </div>
+          <div class="form-group justify-content-center">
+            <input type="text" id="naziv-feedback-city" class="mb-3" required placeholder="Title">
+            <!-- <label for="comment">Message</label> -->
+            <textarea class="form-control" id="comment-feedback-city" rows="3" required minlength="20" maxlength="500"></textarea>
+          </div>
+          <div class="clearfix">
+            <button type="submit" class="btn btn-primary float-right sendComment">
+              Send comment
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+        <!-- Modal za mapu atrakcije -->
+        <div class="modal fade bd-example-modal-lg" id="modalZaMape" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+              <div class="modal-content" >
+                <div class="modal-header" id="modalMapeHeader"></div>
+                <div class="modal-body">
+                  <div id="map">
+                    <div id="map-menu">
+                        <input id='streets-v11' type='radio' name='rtoggle' value='streets' checked='checked'>
+                        <label for='streets'>streets</label>
+                        <input id='satellite-v9' type='radio' name='rtoggle' value='satellite'>
+                        <label for='satellite'>satellite</label>
+                    </div> 
+                  </div> 
+                </div>
+              </div>
+            </div>
+          </div>
+  
+  <script src="./js/city.js"></script>
+    
+</body>
+
+</html>

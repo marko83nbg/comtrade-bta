@@ -1,0 +1,27 @@
+{
+  "name": "comtrade-internship-app",
+  "version": "1.0.0",
+  "description": "Business Trip Advisor - a comtrade internship project<br>\r <br>\r git cheat sheet:<br>\r https://www.git-tower.com/blog/git-cheat-sheet<br>\r <br>\r Uvek radite na svojoj grani, nikad na masteru!<br>\r Na pocetku radnog dana uvek updateujemo master granu sa trenutnom verzijom:<br>\r 1. Preci na master granu i povuci najnoviju verziju:<br>\r  - git checkout master<br>\r  - git pull<br>\r 2. Preci na licnu granu i spojiti sa masterom:<br>\r  - git checkout &lt;ime-grane&gt;<br>\r  - git merge master<br>\r <br>\r Proces kacenja svojih podataka:<br>\r  - git add .<br>\r  - git commit -a -m \"tekst poruke commita (obavezan)\"<br>\r  - git push<br>\r <br>\r Kad okacite najnoviju verziju svoje grane, otvorite pull request da je spojite sa masterom.<br>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefancvetincanin/comtrade-internship-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefancvetincanin/comtrade-internship-app/issues"
+  },
+  "homepage": "https://github.com/stefancvetincanin/comtrade-internship-app#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "path": "^0.12.7"
+  }
+}
