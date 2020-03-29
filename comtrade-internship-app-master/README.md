@@ -30,6 +30,6 @@ Second, you need to have Xampp, or Wamp, or any other web server solution instal
  node app.js
 </pre>
 <p>All done! The app will be hosted at localhost:3000</p>
-Users
-Admin - username: superadmin, pass: password
-User - username: jojo, pass: password
+<h2>Users</h2>
+<p>Admin - username: superadmin, pass: password</p>
+<p>User - username: jojo, pass: password</p>
